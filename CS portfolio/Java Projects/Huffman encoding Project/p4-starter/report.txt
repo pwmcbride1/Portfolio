@@ -1,0 +1,54 @@
+Full name : Patrick William McBride
+
+username : pwmcbrid
+
+Lab section : Friday 2:30
+
+Alice in Wonderland
+
+Project 4: Text Compression
+
+The original text has 163675 characters.
+The average length of a code is 4.60 bits.
+The text is encoded in 752855 bits.
+The savings is 556545 bits.
+The compressed text is encoded in 94108 characters.
+The savings is 69567 characters.
+Decompressing yields 752855 bits.
+The recovered text has 163675 characters.
+Percentage of bits saved 42.50381854284405
+
+All tests passed...
+
+
+Moby Dick
+
+Project 4: Text Compression
+
+The original text has 12352 characters.
+The average length of a code is 4.43 bits.
+The text is encoded in 54691 bits.
+The savings is 44125 bits.
+The compressed text is encoded in 6838 characters.
+The savings is 5514 characters.
+Decompressing yields 54691 bits.
+The recovered text has 12352 characters.
+Percentage of bits saved 44.65369980569948
+
+All tests passed...
+
+Pirate
+
+Project 4: Text Compression
+
+The original text has 279612 characters.
+The average length of a code is 4.62 bits.
+The text is encoded in 1291645 bits.
+The savings is 945251 bits.
+The compressed text is encoded in 161457 characters.
+The savings is 118155 characters.
+Decompressing yields 1291645 bits.
+The recovered text has 279612 characters.
+Percentage of bits saved 42.257261848561576
+
+All tests passed...

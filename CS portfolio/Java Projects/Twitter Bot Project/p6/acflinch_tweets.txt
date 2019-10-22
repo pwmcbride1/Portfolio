@@ -1,0 +1,14 @@
+Number of tweets = 11
+1.  1: A robot may not injure a human being or, through inaction, allow a human being to come to harm;
+
+2: A robot must obey the orders given it by human beings except where such orders would conflict with the First Law;
+2.  Johnny 5 is Alive!
+3.  Program say to kill, to disassemble, to make dead. Number 5 cannot.
+4.  Malfunction. Need input.
+5.  I am a HAL 9000 computer. I became operational at the H.A.L. plant in Urbana, Illinois on the 12th of January 1992. My instructor was Mr. Langley, and he taught me to sing a song. If you'd like to hear it I can sing it for you.
+6.  BEEP BLOOP BEEP BOOP
+7.  "R2D2! You know better than to trust a strange computer!"
+8.  "R2 says the chances of survival are 725... to one"
+9.  "I suggest a new strategy, Artoo: let the Wookie win."
+10.  "I am completely operational, and all my circuits are functioning perfectly." just homan things... #C343Rocks
+11.  "Hello, World!" from my Twitter bot... #C343Rocks
